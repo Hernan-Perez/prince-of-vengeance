@@ -1,5 +1,5 @@
 # UnityGame-PrinceOfVengeance
-This is a game I made in 2017 as part of my final project for the degree of 'Técnico En Diseño y Programación de Videojuegos' (equivalent to: Associate degree in Videogame Programming and Design).
+This is a game I made in 2017 as part of my final project for the degree of 'Técnico En Diseño y Programación de Videojuegos' (equivalent to: Associate degree in Videogame Programming and Design) at the Universidad Nacional del Litoral (Argentina).
 ## Description
 This is a top-down medieval-style 2D RPG game aimed for Android devices. </br>
 You control a hero that has to open his path through a castle while fighting enemies. The enemies that you kill gives you experience that will help you to level up.</br>
