@@ -1,0 +1,11 @@
+sicilen = Sicilienne Op 78 (Faure, Gabriel (1845-1924) French)
+al_adagi = Adagio in G min (Albinoni, Tomaso (1671-1750) Italian)
+cmballet = Balletto |Monteverdi, Claudio (1567-1643) Italian 
+cmveder = Chi Vuil Veder |Monteverdi, Claudio (1567-1643) Italian 
+hndl_var = Variatons and Fugue on a theme by Handel - Op. 24. BRAHMS
+fantaise = Fantasie-Impromptu in C# min. Opus 66 CHOPIN
+etuded = Etude Tableau Op.39. No.9.in D  RACHMANINOV
+hdn-gqp = Guitar Quartet in D  HAYDN
+makropulos = Prelude to 'The Makropulos Case'. JANACEK LEOS
+mnsnt05 = 5.Entr'acte A Midsummer Night's Dream Jean-François Lucarelli (MENDELSSOHN)
+mnsnt01 = 1.Scherzo  A Midsummer Night's Dream Jean-François Lucarelli (MENDELSSOHN)
